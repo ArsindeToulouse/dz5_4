@@ -217,7 +217,7 @@ select {
   appearance: none!important;
 }
 select.field-type {
-	width: 110px;
+	width: 150px;
 }
  
 select::-ms-expand {
